@@ -55,7 +55,7 @@
 </p>
 
 
-<h3 <!--   GitHub stats graph --> </h3>
+<!--   GitHub stats graph --> 
 ### 📈 GitHub Activity Graph:
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DashingAdi&hide_border=true&theme=redical)
 
