@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-# About Me :
+<h1 align="Center"> About Me : </h1>
 
 <br/>
 <div>
@@ -15,17 +15,17 @@
     <li>🔭 <em> I’m currently a 1st year BTech Computer Science student at Lovely Professional University. </em> </li>
     <li>😎 <em> Skills- <b> Java , Python , Docker , kubernetes, Openstack. </b> </em> </li>
     <li>🌱 <em> I’m currently learning <b> Devops </b> and <b> DSA </b>. </em> </li>
-    <li>🥅 <em> <b> 2022 Goals </b>: Contribute more to Open Source projects. <em> </li>
-    <li>💬 <em> Ask me anything about <b> Anime </b> & Open Source. <em> </li>
-    <li>😄 <em> Pronouns: He/Him <em> </li>
-    <li>⚡ <em> Fun fact: I don't remember one 😮‍💨 <em> </li>
+    <li>🥅 <em> <b> 2022 Goals </b>: Contribute more to Open Source projects. </em> </li>
+    <li>💬 <em> Ask me anything about <b> Anime </b> & Open Source. </em> </li>
+    <li>😄 <em> Pronouns: He/Him </em> </li>
+    <li>⚡ <em> Fun fact: I don't remember one 😮‍💨 </em> </li>
 </ul> 
 </div>
 <br/>
 
-## Languages and Tools:
+<h2 align="center"> Languages and Tools: </h2>
 
-<p align="left">
+<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,7 +38,7 @@
 </p>
 <br/>
 
-## Let's chat
+<h2 align="center"> Let's chat </h2>
 
 <br/>
 
@@ -46,27 +46,18 @@
  
 
 <!--   GitHub stats graph --> 
-#### 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph:
 
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DashingAdi&hide_border=true&theme=redical)
 <p align="center">
    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=tokyonight"
 </p>
 
-### Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/DashingAdi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /> 
-</a>
-<a href="https://linkedin.com/in/aditya-singh-9a4a69237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="mailto:dashing4149@gmail.com">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://www.youtube.com/c/Dashing4149">
-  <img align="left" width="32px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>
-<a href="https://discord.com/users/755804749210845236">
-  <img align="left" width="32px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
-</a>
-</p>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<h1 align="center"> Connect with me: </h1>
+
+ [<img alt="Discord | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
+ [<img alt="Discord| LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
+ [<img alt="Discord | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
