@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=50&duration=2000&pause=890&color=3CFDFF&background=0077FF00&center=true&vCenter=true&width=650&height=120&lines=Hey%2C+I'm+Aditya+%3C%E2%81%A0(%E2%81%A0%EF%BF%A3%E2%81%A0%EF%B8%B6%E2%81%A0%EF%BF%A3%E2%81%A0)%E2%81%A0%3E" alt="Typing SVG" /></a>
+<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=50&duration=3500&pause=1200&color=3CFDFF&background=0077FF00&center=true&vCenter=true&width=650&height=120&lines=Hey%2C+I'm+Aditya+" alt="Typing SVG" /></a>
 
 Bruh
 
