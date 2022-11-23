@@ -36,7 +36,7 @@
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/k8s.png" alt="Kubernetes" width="70" height="50"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/shivamtomar10/shivamtomar10/blob/main/docker.png" alt="Docker" width="70" height="50"/> </a> 
 
-<h2 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://twitter.com/DashingAdi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
@@ -55,7 +55,7 @@
 </p>
 
 
-<!--   GitHub stats graph -->
+<h3 <!--   GitHub stats graph --> </h3>
 ### 📈 GitHub Activity Graph:
 ![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DashingAdi&hide_border=true&theme=redical)
 
