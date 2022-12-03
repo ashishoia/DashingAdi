@@ -1,3 +1,6 @@
+<IF YOU HAVE THE CONSCIENCE TO COPY THIS DESPITE IT HAVING A GPL LICENCE ATLEAST CONSIDER STARRING THE REPOSITORY>
+
+
 ![Profile views](https://gpvc.arturio.dev/DashingAdi) 
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
