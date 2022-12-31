@@ -51,7 +51,7 @@
 <!--   GitHub stats graph --> 
 ## 📈 GitHub Activity Graph:
 
-![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DashingAdi&hide_border=true&theme=redical)
+![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&theme=redical)
 <p align="center">
    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=tokyonight"
 </p>
