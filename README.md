@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-<h1 align="Center"> About Me : </h1>
+<h2 align="Center"> About Me : </h1>
 
 <br/>
 <div>
@@ -48,7 +48,7 @@
  
 
 <!--   GitHub stats graph --> 
-## 📈 GitHub Activity Graph:
+<h2 align="Center"> GitHub Stats: </h2>
 
 ![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&theme=redical)
 <p align="center">
@@ -62,7 +62,7 @@
   
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h1 align="center"> Connect with me: </h1>
+<h2 align="center"> Connect with me: </h1>
 
  [<img alt="LinkedIn| LinkedIn" width="106px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
  [<img alt="Twitter | Twitter" width="94px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
