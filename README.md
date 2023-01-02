@@ -10,7 +10,9 @@
 <br/>
 <br/>
 
-<h2 align="Center"> About Me : </h1>
+<details>
+  <summary> Wanna know about me? </summary>
+<h2 align="Center"> About Me </h1>
 
 <br/>
 <div>
@@ -26,7 +28,7 @@
 </div>
 <br/>
 
-<h2 align="Center"> Languages and Tools: </h2>
+<h2 align="Center"> Languages and Tools </h2>
 
 <p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -40,7 +42,7 @@
 </p>
 <br/>
 
-<h2 align="center"> Let's chat </h2>
+<h2 align="center"> Ping Me </h2>
 
 <br/>
 
@@ -48,11 +50,11 @@
  
 
 <!--   GitHub stats graph --> 
-<h2 align="Center"> GitHub Stats: </h2>
+<h2 align="Center"> GitHub Stats </h2>
 
-![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&theme=redical)
+![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&bg_color=0D1117&theme=react)
 <p align="center">
-   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=tokyonight"
+   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"
 </p>
 <a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -62,10 +64,10 @@
   
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h2 align="center"> Connect with me: </h1>
+<h2 align="center"> Connect with me </h1>
 
  [<img alt="LinkedIn| LinkedIn" width="106px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
  [<img alt="Twitter | Twitter" width="94px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
  [<img alt="G-mail | Mail" width="82px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
  
-
+</details>
