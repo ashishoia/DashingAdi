@@ -24,7 +24,7 @@
     <li>⚡ <em> Fun fact: I don't remember one 😮‍💨 </em> </li>
   </ul> 
 </div>
-<br/
+<br/>
 
 <h2 align="Center"> Languages and Tools: </h2>
 
