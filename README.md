@@ -10,8 +10,6 @@
 <br/>
 <br/>
 
-<details>
-  <summary> Wanna know about me? </summary>
 <h2 align="Center"> About Me </h1>
 
 <br/>
@@ -46,7 +44,7 @@
 
 <br/>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755804749210845236?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=That's%20what%20she%20said,%20Nothing%20you%20idiots%20she's%20dead...)](https://discord.com/users/755804749210845236)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755804749210845236?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Why%20did%20the%20chicken%20cross%20the%20road%20?)](https://discord.com/users/755804749210845236)
  
 
 <!--   GitHub stats graph --> 
@@ -70,4 +68,3 @@
  [<img alt="Twitter | Twitter" width="94px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
  [<img alt="G-mail | Mail" width="82px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
  
-</details>
