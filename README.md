@@ -22,9 +22,9 @@
     <li>💬 <em> Ask me anything about <b> Anime </b> & Open Source. </em> </li>
     <li>😄 <em> Pronouns: He/Him </em> </li>
     <li>⚡ <em> Fun fact: I don't remember one 😮‍💨 </em> </li>
-</ul> 
+  </ul> 
 </div>
-<br/>
+<br/
 
 <h2 align="center"> Languages and Tools: </h2>
 
@@ -57,13 +57,16 @@
 </p>
 <a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>P.S:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.`
-
-
+  <pre>
+  P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
+  </pre>
+  
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h1 align="center"> Connect with me: </h1>
 
- [<img alt="Discord | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
- [<img alt="Discord| LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
- [<img alt="Discord | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
+ [<img alt="LinkedIn| LinkedIn" width="106px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
+ [<img alt="Twitter | Twitter" width="94px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
+ [<img alt="G-mail | Mail" width="82px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
+ 
+
