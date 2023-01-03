@@ -4,6 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/DashingAdi) 
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
+<img alt="pfp"  src="https://avatars.githubusercontent.com/u/60130665?v=4" width=200px/>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
 
@@ -66,7 +67,7 @@
 
 <h2 align="center"> Connect with me </h1>
 
- [<img alt="LinkedIn| LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" style="width: 30%" />](https://www.linkedin.com/aditya-singh-9a4a69237)
- [<img alt="Twitter | Twitter" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" style="width: 30%"/>](https://twitter.com/DashingAdi2/)
- [<img alt="G-mail | Mail" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" style="width: 30%"/>](mailto:dashing4149@gmail.com)
+ [<img alt="LinkedIn| LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" align=left width= 30% />](https://www.linkedin.com/aditya-singh-9a4a69237)
+ [<img alt="Twitter | Twitter" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" align=center width= 30%/>](https://twitter.com/DashingAdi2/)
+ [<img alt="G-mail | Mail" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" align=right width= 30%/>](mailto:dashing4149@gmail.com)
  
