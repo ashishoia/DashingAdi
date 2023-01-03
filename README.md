@@ -5,7 +5,7 @@
 <p align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=650&height=100&lines=Hey%2C+I'm+Aditya" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
 
 <br/>
 <br/>
@@ -45,7 +45,7 @@
 <br/>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755804749210845236?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Why%20did%20the%20chicken%20cross%20the%20road%20?)](https://discord.com/users/755804749210845236)
- 
+
 
 <!--   GitHub stats graph --> 
 <h2 align="Center"> GitHub Stats </h2>
@@ -54,7 +54,9 @@
 <p align="center">
    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"
 </p>
-<a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+<a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
+ 
   <br/>
   <pre>
   P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
@@ -64,7 +66,7 @@
 
 <h2 align="center"> Connect with me </h1>
 
- [<img alt="LinkedIn| LinkedIn" width="106px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/aditya-singh-9a4a69237)
- [<img alt="Twitter | Twitter" width="94px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/DashingAdi2/)
- [<img alt="G-mail | Mail" width="82px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:dashing4149@gmail.com)
+ [<img alt="LinkedIn| LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" style="width: 30%" />](https://www.linkedin.com/aditya-singh-9a4a69237)
+ [<img alt="Twitter | Twitter" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" style="width: 30%"/>](https://twitter.com/DashingAdi2/)
+ [<img alt="G-mail | Mail" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" style="width: 30%"/>](mailto:dashing4149@gmail.com)
  
