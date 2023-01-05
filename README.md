@@ -6,6 +6,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
+<a href="https://app.daily.dev/DashingAdi"><img src="https://api.daily.dev/devcards/247069d703b247a29003c38c943acf5a.png?r=pgh" width="400" alt="Aditya Kumar Singh's Dev Card"/></a>
 
 <br/>
 <br/>
