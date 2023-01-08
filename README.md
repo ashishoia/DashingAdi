@@ -64,4 +64,6 @@
  <a href="https://www.linkedin.com/in/aditya-singh-9a4a69237/"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-linkedin.svg"/></a>
  <a href="https://twitter.com/_DashingAdi_"><img alt="Twitter" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-twitter.svg"/></a>
  <a href="mailto:dashing4149@gmail.com"><img alt="Gmail | Mail" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-gmail-logo.svg"/></a>
+  <a href="https://aditya-bio.pages.dev/"><img alt="LinkTree" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-web-64.png"/></a>
+  <a href="https://www.reddit.com/user/EvilBabyYoda"><img alt="Reddit" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-reddit.svg"/></a>
  </p>
