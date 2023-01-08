@@ -6,7 +6,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
-  <img align="right" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" />
+
+<br/>
+
+<img align="left" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" />
 
 - 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
 - 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev </b>.
@@ -57,8 +60,8 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="center"> Connect with me </h1>
-
- [<img alt="LinkedIn| LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" align=center width= 33% />](https://www.linkedin.com/aditya-singh-9a4a69237)
- [<img alt="Twitter | Twitter" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" align=center width= 33%/>](https://twitter.com/DashingAdi2/)
- [<img alt="G-mail | Mail" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" align=center width= 33%/>](mailto:dashing4149@gmail.com)
- 
+<p align="center" >
+ <a href="https://www.linkedin.com/in/aditya-singh-9a4a69237/"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-linkedin.svg"/></a>
+ <a href="https://twitter.com/_DashingAdi_"><img alt="Twitter" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-twitter.svg"/></a>
+ <a href="mailto:dashing4149@gmail.com"><img alt="Gmail | Mail" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-gmail-logo.svg"/></a>
+ </p>
