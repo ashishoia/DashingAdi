@@ -6,25 +6,17 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
-<a href="https://app.daily.dev/DashingAdi"><img src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg" width="400" alt="Aditya Kumar Singh's Dev Card"/></a>
+  <img align="right" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" />
 
-<br/>
-<br/>
-
-<h2 align="Center"> About Me </h1>
-
-<br/>
-<div>
-  <ul>
-    <li>🔭 <em> I’m currently a 1st year BTech Computer Science student at Lovely Professional University. </em> </li>
-    <li>😎 <em> Skills- <b> Java , Python , Docker , kubernetes, Openstack. </b> </em> </li>
-    <li>🌱 <em> I’m currently learning <b> Devops </b> and <b> DSA </b>. </em> </li>
-    <li>🥅 <em> <b> 2022 Goals </b>: Contribute more to Open Source projects. </em> </li>
-    <li>💬 <em> Ask me anything about <b> Anime </b> & Open Source. </em> </li>
-    <li>😄 <em> Pronouns: He/Him </em> </li>
-    <li>⚡ <em> Fun fact: I don't remember one 😮‍💨 </em> </li>
-  </ul> 
-</div>
+- 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
+- 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev </b>.
+- 🥅 <b> 2023 Goals </b>: Contribute more to Open Source projects.
+- 💬 Ask me anything about <b> Anime </b> & Open Source.
+- 📬 How to reach me: dashing4149@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
+  
+  
 <br/>
 
 <h2 align="Center"> Languages and Tools </h2>
