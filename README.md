@@ -29,7 +29,6 @@
   <a href="https://www.reddit.com/user/EvilBabyYoda"><img alt="Reddit" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-reddit.svg"/></a>
  </p>
   
-<br/>
 
 <h2 align="Center"> Languages and Tools </h2>
 
@@ -65,5 +64,23 @@
   <pre>
   P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
   </pre>
+
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
   
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
