@@ -12,7 +12,7 @@
 <img align="left" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" />
 
 - 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
-- 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev </b>.
+- 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev. </b>
 - 🥅 <b> 2023 Goals </b>: Contribute more to Open Source projects.
 - 💬 Ask me anything about <b> Anime </b> & Open Source.
 - 📬 How to reach me: dashing4149@gmail.com
