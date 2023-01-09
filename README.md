@@ -2,10 +2,12 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/DashingAdi) 
-<p align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" alt="visitors"/> </p>
-<p align="center">
+<span> <img src="https://visitor-badge.laobi.icu/badge?page_id=DashingAdi" align="right" alt="visitors"/> </span>
+
+<br/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
+
 
 <br/>
 
