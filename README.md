@@ -34,9 +34,9 @@
 <br/>
 
 <h2 align="Center"> Languages and Tools </h2>
-
-<img src = "https://github.com/DashingAdi/DashingAdi/blob/main/images/Untitled_design-removebg-preview.png" width=100% alt="tools" />
-
+<p align="center">
+<img src = "https://github.com/DashingAdi/DashingAdi/blob/main/images/Untitled_design_2_-removebg-preview.png" alt="tools" />
+<p/>
 <br/>
 
 <h2 align="center"> Ping Me </h2>
