@@ -16,9 +16,7 @@
 - 🔭 I’m currently a 1st year BTech Computer Science student at Lovely Professional University.
 - 🌱 I’m currently learning <b> Devops </b> and <b> Android Dev. </b>
 - 🥅 <b> 2023 Goals </b>: Contribute more to Open Source projects.
-- 💬 Ask me anything about <b> Anime </b> & Open Source.
 - 📬 How to reach me: dashing4149@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
 
 <br/>
