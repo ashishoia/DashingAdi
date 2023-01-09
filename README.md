@@ -47,15 +47,16 @@
 
 
 <!--   GitHub stats graph --> 
-<h2 align="Center"> S T A T S </h2>
+<h2 align="left"> S T A T S </h2>
 
-![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&bg_color=0D1117&theme=react)
-<p align="center">
+  <p align="center">
    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"
 </p>
   
 <a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
  
+![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&bg_color=0D1117&theme=react)
+
   <br/>
   <pre>
   P.S: Top languages is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
