@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=110&lines='Sup+Aditya+Here" alt="Typing SVG" /></a> </p>
+  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
 
 
 <br/>
@@ -24,22 +24,22 @@
 <br/>
   
  <p align="center" >
- <a href="https://www.linkedin.com/in/aditya-singh-9a4a69237/"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-linkedin.svg"/></a>
- <a href="https://twitter.com/_DashingAdi_"><img alt="Twitter" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-twitter.svg"/></a>
- <a href="mailto:dashing4149@gmail.com"><img alt="Gmail | Mail" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-gmail-logo.svg"/></a>
-  <a href="https://aditya-bio.pages.dev/"><img alt="LinkTree" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-web-64.png"/></a>
-  <a href="https://www.reddit.com/user/EvilBabyYoda"><img alt="Reddit" width="10%" style="padding:5px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-reddit.svg"/></a>
+ <a href="https://www.linkedin.com/in/aditya-singh-9a4a69237/"><img alt="LinkedIn" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-linkedin.svg"/></a>
+ <a href="https://twitter.com/_DashingAdi_"><img alt="Twitter" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-twitter.svg"/></a>
+ <a href="mailto:dashing4149@gmail.com"><img alt="Gmail | Mail" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-gmail-logo.svg"/></a>
+  <a href="https://aditya-bio.pages.dev/"><img alt="LinkTree" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-web-64.png"/></a>
+  <a href="https://www.reddit.com/user/EvilBabyYoda"><img alt="Reddit" width="10%" style="padding:10px" src="https://github.com/DashingAdi/DashingAdi/blob/main/images/icons8-reddit.svg"/></a>
  </p>
   
 <br/>
 
-<h2 align="Center"> Languages and Tools </h2>
+<h2 align="Center"> T O O L S </h2>
 <p align="center">
 <img src = "https://github.com/DashingAdi/DashingAdi/blob/main/images/Untitled_design_2_-removebg-preview.png" alt="tools" />
 <p/>
 <br/>
 
-<h2 align="center"> Ping Me </h2>
+<h2 align="LEFT"> P I N G &nbsp; M E </h2>
 
 <br/>
 
@@ -47,7 +47,7 @@
 
 
 <!--   GitHub stats graph --> 
-<h2 align="Center"> GitHub Stats </h2>
+<h2 align="Center"> S T A T S </h2>
 
 ![Aditya's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DashingAdi&hide_border=true&bg_color=0D1117&theme=react)
 <p align="center">
