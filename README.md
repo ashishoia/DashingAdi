@@ -31,7 +31,7 @@
   
 <br/>
 
-<h2 align="Center"> T O O L S </h2>
+<h2 align="left"> T O O L S </h2>
 <p align="center">
 <img src = "https://github.com/DashingAdi/DashingAdi/blob/main/images/Untitled_design_2_-removebg-preview.png" alt="tools" />
 <p/>
