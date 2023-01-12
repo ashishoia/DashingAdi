@@ -48,7 +48,7 @@
 <h2 align="left"> S T A T S </h2>
 
   <p align="center">
-   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"
+   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"/>
 </p>
   
 <a href="https://github.com/DashingAdi/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="width: 100%" /></a>
