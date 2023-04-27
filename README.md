@@ -6,7 +6,7 @@
 
 <br/>
 
-  <h1 style="strong">Heyo <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="hello" width=35 /> Aditya Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
+  <h1 style="strong">Heyo! Aditya Here! <img src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" alt="idk" width=35/> </h1>
 
 
 <br/>
