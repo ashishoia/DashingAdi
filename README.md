@@ -37,13 +37,6 @@
 <p/>
 <br/>
 
-<h2 align="LEFT"> P I N G &nbsp; M E </h2>
-
-<br/>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755804749210845236?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Why%20did%20the%20chicken%20cross%20the%20road%20?)](https://discord.com/users/755804749210845236)
-
-
 <!--   GitHub stats graph --> 
 <h2 align="left"> S T A T S </h2>
 
