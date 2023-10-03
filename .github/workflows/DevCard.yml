@@ -1,7 +1,7 @@
 name: DevCard
 
 permissions:
-  contents: write
+  contents: write html
 
 on:
   workflow_dispatch:
